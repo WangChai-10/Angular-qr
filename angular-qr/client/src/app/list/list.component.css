@@ -1,0 +1,27 @@
+button {
+  padding: 10px;
+  background-color: skyblue;
+  margin-top: 10px;
+}
+input {
+  padding: 10px;
+  width: 15%;
+}
+a {
+  margin-left: 20px;
+  padding: 10px;
+  background-color: skyblue;
+  margin-top: 10px;
+  text-decoration: none;
+}
+
+.task {
+  display: flex;
+  background: white;
+  justify-content: center;
+  align-items: center;
+}
+
+.task-text {
+  margin: 20px;
+}
